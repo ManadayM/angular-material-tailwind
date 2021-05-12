@@ -5,7 +5,7 @@
 - [x] Angular Material setup
 - [x] Tailwind CSS setup
 - [x] Purge unused Tailwind CSS from prodcution build
-- [] Fix integration issue to make Tailwind work
+- [ ] Fix integration issue to make Tailwind work
 
 ## Angular Material + Tailwind Setup references
 
